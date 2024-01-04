@@ -37,7 +37,7 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#290f00"
+            "#5c1e00"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#290f00" 
@@ -116,7 +116,9 @@
     "rawColors": {
         "PLUM_1" : "#eb823b",
         "PLUM_10" : "#ffe1cf",
+        "PLUM_22" : "#1a0b00",
         "PRIMARY_500": "#f2b699",
+        "PRIMARY_560" : "#1c0c00",
         "PRIMARY_100": "#ffd0b0",
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_300": "#f2b699",
@@ -133,8 +135,8 @@
         "BRAND_560": "#d68760",
         "YELLOW_300": "#99502c",
         "GREEN_600": "#ffd0b0",
-        "RED_400": "#ff6700",
-        "WHITE_500": "#FFFFFF",
+        "RED_400": "#c95200",
+        "WHITE_500": "#ffdbc2",
         "GREEN_360": "#662610"
     },
     "spec": 2
