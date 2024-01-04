@@ -1,6 +1,6 @@
 {
-    "name": "Custom Reddish Theme",
-    "description": "A custom Discord theme with a reddish tone.",
+    "name": "Custom Orange Theme",
+    "description": "A custom Discord theme with an orange tone.",
     "authors": [
         {
             "name": "Your_Name",
@@ -8,22 +8,22 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": "#e63900",
-        "HEADER_SECONDARY": "#ff851b",
-        "TEXT_NORMAL": "#ffb703",
-        "TEXT_MUTED": "#a8dadc",
-        "TEXT_LINK": "#fd79a8",
-        "INTERACTIVE_NORMAL": "#f4a261",
-        "INTERACTIVE_HOVER": "#2a9d8f",
-        "INTERACTIVE_ACTIVE": "#457b9d",
-        "INTERACTIVE_MUTED": "#e76f51",
-        "BACKGROUND_PRIMARY": "#3d1300",
-        "BACKGROUND_SECONDARY": "#6a2c00",
-        "BACKGROUND_SECONDARY_ALT": "#b83b5e",
-        "BACKGROUND_TERTIARY": "#ff6347",
-        "BACKGROUND_ACCENT": "#f08a5d",
-        "BACKGROUND_MOBILE_PRIMARY": "#421c00",
-        "BACKGROUND_MOBILE_SECONDARY": "#421c00"
+        "HEADER_PRIMARY": "#ff5722",
+        "HEADER_SECONDARY": "#ff9800",
+        "TEXT_NORMAL": "#ffab40",
+        "TEXT_MUTED": "#ffc400",
+        "TEXT_LINK": "#ff6f00",
+        "INTERACTIVE_NORMAL": "#ff8f00",
+        "INTERACTIVE_HOVER": "#ef6c00",
+        "INTERACTIVE_ACTIVE": "#d84315",
+        "INTERACTIVE_MUTED": "#ffcc80",
+        "BACKGROUND_PRIMARY": "#bf360c",
+        "BACKGROUND_SECONDARY": "#ff5722",
+        "BACKGROUND_SECONDARY_ALT": "#e64a19",
+        "BACKGROUND_TERTIARY": "#ff7043",
+        "BACKGROUND_ACCENT": "#ff6e40",
+        "BACKGROUND_MOBILE_PRIMARY": "#d84315",
+        "BACKGROUND_MOBILE_SECONDARY": "#d84315"
     },
     "rawColors": {
         "PRIMARY_100": "#ffccbc",
@@ -49,7 +49,7 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#e18873"
+            "ic_mic_neutral": "#ffcc80"
         },
         "iconpack": "custom-icons"
     },
