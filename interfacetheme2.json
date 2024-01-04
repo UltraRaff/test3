@@ -1,89 +1,139 @@
 {
-    "name": "Raff's Personal Theme",
-    "description": "Useless",
+    "name": "Raff's Theme",
+    "description": "Raff's personal theme",
     "authors": [
         {
             "name": "Raffee",
             "id": "588779896147410977"
+          
         }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ff5722"
+            "#ffd0b0"
         ],
         "HEADER_SECONDARY": [
-            "#ff9800"
+            "#ffd0b0"
         ],
         "TEXT_NORMAL": [
-            "#ffab40"
+            "#fff3ed"
         ],
         "TEXT_MUTED": [
-            "#ffc400"
-        ],
-        "TEXT_LINK": [
-            "#ff6f00"
+            "#de9978"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ff8f00"
+            "#ffb582"
         ],
         "INTERACTIVE_HOVER": [
-            "#ef6c00"
+            "#572d1f"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#d84315"
+            "#eb823b"
         ],
         "INTERACTIVE_MUTED": [
-            "#ffcc80"
+            "#99502c"
         ],
         "BACKGROUND_PRIMARY": [
-            "#bf360c"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#ff5722"
+            "#290f00"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#e64a19"
+            "#290f00" 
         ],
         "BACKGROUND_TERTIARY": [
-            "#ff7043"
+            "#421c00"
         ],
         "BACKGROUND_ACCENT": [
-            "#ff6e40"
+            "#572d1f"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#290f00"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#d84315"
+            "#290f00"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#d84315"
-        ]
+            "#290f00"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#290f00"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#522b13"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#522b13"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#4f2412"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#331b10"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#662610"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#0e1047"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#ffc0a1"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#ffc0a1"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#541e00"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#f2b699"
+        ],
+        "TEXT_LINK": [
+            "#f2b699"
+        ],
+        "TEXT_DANGER": [
+            "#cf0000"
+        ],
+        "KEYBOARD": [
+            "#1a0b00"
+        ],
+        "CHANNEL_ICON": [
+            "#ff8142"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1a0b00"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#331500"
+    ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ffccbc",
-        "PRIMARY_130": "#ffab91",
-        "PRIMARY_200": "#e57373",
-        "PRIMARY_230": "#e57373",
-        "PRIMARY_300": "#bcaaa4",
-        "PRIMARY_360": "#bcaaa4",
-        "PRIMARY_400": "#a1887f",
-        "PRIMARY_460": "#8d6e63",
-        "PRIMARY_500": "#794d40",
-        "PRIMARY_560": "#5d4037",
-        "PRIMARY_600": "#4e342e",
-        "PRIMARY_630": "#3e2723",
-        "PRIMARY_660": "#3e2723",
-        "PRIMARY_700": "#3e2723",
-        "PRIMARY_800": "#3e2723",
-        "PLUM_1": "#ffeb3b",
-        "PLUM_3": "#f50057",
-        "PLUM_6": "#ff4081"
-    },
-    "plus": {
-        "version": 0,
-        "customOverlays": true,
-        "icons": {
-            "ic_mic_neutral": "#ffcc80"
-        },
-        "iconpack": "custom-icons"
+        "PRIMARY_500": "#f2b699",
+        "PRIMARY_100": "#ffd0b0",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#f2b699",
+        "PRIMARY_360": "#f2b699",
+        "PRIMARY_400": "#f2b699",
+        "PRIMARY_600": "#1c0d02",
+        "PRIMARY_630": "#1c0b03",
+        "PRIMARY_660": "#1c0b03",
+        "PRIMARY_700": "#1c0d02",
+        "PRIMARY_800": "#1c0d02",
+        "BRAND_260": "#99502c",
+        "BRAND_360": "#d68760",
+        "BRAND_500": "#99502c",
+        "BRAND_560": "#d68760",
+        "YELLOW_300": "#99502c",
+        "GREEN_600": "#ffd0b0",
+        "RED_400": "#f2b699",
+        "WHITE_500": "#ffd0b0",
+        "GREEN_360": "#662610"
     },
     "spec": 2
 }
