@@ -1,11 +1,11 @@
 {
-  "name": "Raff's Personal Theme",
-    "description": "Useless",
-    "authors": [
-        {
-            "name": "Raffee",
-            "id": "588779896147410977"
-}
+  "name": "Raff's Theme",
+  "description": "nothing here bitch",
+  "authors": [
+    {
+      "name": "Raff",
+      "id": "588779896147410977"
+    }
   ],
   "semanticColors": {
     "ACTIVITY_CARD_BACKGROUND": ["#8D6E63", "#6D4C41"],
