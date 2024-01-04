@@ -1,6 +1,6 @@
 {
-    "name": "Custom Theme",
-    "description": "A custom Discord theme.",
+    "name": "Custom Reddish Theme",
+    "description": "A custom Discord theme with a reddish tone.",
     "authors": [
         {
             "name": "Your_Name",
@@ -8,21 +8,50 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": "#FF5733",  // Orange color for primary headers
-        "HEADER_SECONDARY": "#FF8C42",  // Lighter orange color for secondary headers
-        "TEXT_NORMAL": "#FFD700",  // Gold color for regular text in chat
+        "HEADER_PRIMARY": "#e63900",  // Reddish color for primary headers
+        "HEADER_SECONDARY": "#ff851b",  // Lighter reddish color for secondary headers
+        "TEXT_NORMAL": "#ffb703",  // Light yellow color for regular text in chat
+        "TEXT_MUTED": "#a8dadc",  // Muted text color
+        "TEXT_LINK": "#fd79a8",  // Pink color for links in chat
+        "INTERACTIVE_NORMAL": "#f4a261",  // Light orange color for interactive elements
+        "INTERACTIVE_HOVER": "#2a9d8f",  // Teal color for hover effects
+        "INTERACTIVE_ACTIVE": "#457b9d",  // Dark blue color for active elements
+        "INTERACTIVE_MUTED": "#e76f51",  // Muted interactive elements
+        "BACKGROUND_PRIMARY": "#3d1300",  // Base color for the UI background
+        "BACKGROUND_SECONDARY": "#6a2c00",  // Darker background color for profiles and forum posts
+        "BACKGROUND_SECONDARY_ALT": "#b83b5e",  // Background for chat input and emoji slider
+        "BACKGROUND_TERTIARY": "#ff6347",  // Global border background and search bar background
+        "BACKGROUND_ACCENT": "#f08a5d",  // Background for reply pipe and buttons
+        "BACKGROUND_MOBILE_PRIMARY": "#421c00",  // Outer background for mobile elements
+        "BACKGROUND_MOBILE_SECONDARY": "#421c00",  // Header color for mobile
         // ... Add more semantic colors based on your preferences
     },
     "rawColors": {
-        "PRIMARY_100": "#FDEBD0",  // Light cream color for certain elements
-        "PRIMARY_500": "#D35400",  // Dark orange color for borders and accent elements
+        "PRIMARY_100": "#ffccbc",  // Light cream color
+        "PRIMARY_130": "#ffab91",  // Lighter cream color
+        "PRIMARY_200": "#e57373",  // Light coral color
+        "PRIMARY_230": "#e57373",  // Lighter coral color
+        "PRIMARY_300": "#bcaaa4",  // Light brown color
+        "PRIMARY_360": "#bcaaa4",  // Lighter brown color
+        "PRIMARY_400": "#a1887f",  // Brownish color
+        "PRIMARY_460": "#8d6e63",  // Darker brownish color
+        "PRIMARY_500": "#794d40",  // Dark orange color
+        "PRIMARY_560": "#5d4037",  // Darker brown color
+        "PRIMARY_600": "#4e342e",  // Very dark brown color
+        "PRIMARY_630": "#3e2723",  // Almost black color
+        "PRIMARY_660": "#3e2723",  // Darker almost black color
+        "PRIMARY_700": "#3e2723",  // Even darker almost black color
+        "PRIMARY_800": "#3e2723",  // Very dark brown color for specific elements
+        "PLUM_1": "#ffeb3b",  // Color for unread channels
+        "PLUM_3": "#f50057",  // Pinkish color for various elements
+        "PLUM_6": "#ff4081",  // Pink color for text preview, react count, etc.
         // ... Add more raw colors based on your preferences
     },
     "plus": {
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#D35400",  // Dark orange microphone icon
+            "ic_mic_neutral": "#e18873",  // Darker orange microphone icon
             // ... Add more custom icons based on your preferences
         },
         "iconpack": "custom-icons"
